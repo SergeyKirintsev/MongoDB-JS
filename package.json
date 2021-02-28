@@ -1,0 +1,25 @@
+{
+  "name": "Test-MongoDB-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-json-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyKirintsev/Test-MongoDB-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyKirintsev/Test-MongoDB-JS/issues"
+  },
+  "homepage": "https://github.com/SergeyKirintsev/Test-MongoDB-JS#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  },
+  "type": "module"
+}
